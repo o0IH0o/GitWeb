@@ -1,0 +1,132 @@
+body{
+  background-color:  #EDF2C5;
+  margin: 0;
+}
+.container{
+  width: 1260px;
+  height: 940px;
+  margin: 0 auto;
+  padding:0 160px;
+  box-sizing: border-box;
+}
+.title h1{
+  font-size: 44px;
+  font-family: : :arial black;
+  float: left;
+  margin-bottom: 8px;
+  color: #778A50;
+}
+.btn{
+  float: right;
+  margin-top: 53px;
+}
+.fb-ig, .login-join{
+  display: inline-block;
+}
+.fb-ig{
+  vertical-align:bottom;
+  margin:0 7px 0 0;
+}
+.login,.join{
+  line-height: 25px;
+  font-family: Arial Black;
+  font-size: 12px;
+  color: #778A50;
+  border: 1px #778A50 solid;
+  background-color: #EDF2C5;
+  margin: 0 0 0 7px;
+  padding: 3px 5px;
+  border-radius: 3px;
+}
+.menu ul{
+  float: left;
+  margin-top: 0px;
+  width: 900px;
+  border-radius: 3px;
+  background-color: #778A50;
+}
+.menu li{
+  font-size: 20px;
+  padding: 16px 60px 16px 0px;
+  display: inline-block;
+  background-color: #778A50;
+  float: left;
+}
+.menu a{
+  font-family: arial black;
+  font-size: 16px;
+  list-style: none;
+  color: #EDF2C5;
+  text-decoration: none;
+}
+.vegetables,.contact{
+    vertical-align: top;
+    width: 445px;
+    display: inline-block;
+    margin-top: 30px;}
+.vegetables{
+  float: left;
+}
+.vegetables img{
+  margin-top: : 15px;
+  padding: 0px;
+  display: inline-block;
+  margin-bottom: 35px;
+}
+.vegetables img:not(:last-child){
+  margin-right: 8px;
+}
+.contact{
+  float: right;
+}
+h2{
+  font-size: 16px;
+  padding: 15px 0px 15px 30px;
+  font-family: arial black;
+  color: #EDF2C5;
+  float: left;
+  margin-top: 0px;
+  margin-bottom: 15px;
+  width: 415px;
+  border-radius: 3px;
+  background-color: #778A50;
+}
+.contact_p{
+  font-family: ArialMT Regular;
+  font-size: 12px;
+  line-height: 1.33;
+  color: #7d7D7D;
+  background-color: #F7FBDA;
+  display: inline-block;
+}
+.contact p{
+  margin-left: 15px;
+  margin-top: 16px;
+  margin-right: 15px;
+}
+.line2{
+  border-bottom: 1px;
+  border-bottom-color: #898989;
+  border-bottom-style: solid;
+  margin-left: 15px;
+  margin-right: 15px;
+}
+footer{
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  padding: 24px;
+  color:#EDF2C5;
+  font-size: 12px;
+  font-family: Arial Black;
+  width: 100%;
+  background-color: #778A50;
+  border-radius: 3px;
+footer p{
+  font-family: ArialMT Regular;
+  font-size: 12px;
+  padding-top: 24px;
+  padding-bottom: 25px;
+  padding-left: 479px;
+  color: #EDF2C5;
+}
